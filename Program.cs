@@ -7,7 +7,7 @@ namespace LogicalOne
     {
         public static void Main(string[] args)
         {
-            FibonacciSeries.DisplayFibonacciSeries();
+            ReverseTheNumber.ReverseNumber();
         }
     }
  
